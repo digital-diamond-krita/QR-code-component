@@ -1,7 +1,6 @@
 /* style.css */
 body {
-  width: 100px;
-  height: 50px;
-  padding: 20px;
-  border: 1px solid;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
 }
