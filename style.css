@@ -1,15 +1,4 @@
 /* style.css */
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(73, 11, 11);
-}
-
-h1 {
-    color: slateblue;
-    text-align: center;
-}
-
-p {
-    color: darkgreen;
-    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
