@@ -1,6 +1,40 @@
-/* style.css */
+/* This is a comment in CSS */
+
+/* Style for the entire body of the HTML document */
 body {
-    font-size: 15px;
-    font-family: 'Outfit', sans-serif;
-    font-weight: 700;
+  font-family: Arial, sans-serif; /* Sets the default font */
+  background-color: #f4f4f4; /* Sets a light gray background color */
+  margin: 20px; /* Adds a margin around the content */
+  padding: 0; /* Removes default padding */
+}
+
+/* Style for all h1 headings */
+h1 {
+  color: #333; /* Sets a dark gray text color */
+  text-align: center; /* Centers the text */
+  margin-bottom: 20px; /* Adds space below the heading */
+}
+
+/* Style for all paragraphs */
+p {
+  color: #666; /* Sets a medium gray text color */
+  line-height: 1.6; /* Increases line spacing for readability */
+}
+
+/* Style for a specific class called 'container' */
+.container {
+  max-width: 960px; /* Sets a maximum width for the container */
+  margin: 0 auto; /* Centers the container horizontally */
+  background-color: #fff; /* Sets a white background for the container */
+  padding: 20px; /* Adds padding inside the container */
+  border-radius: 8px; /* Rounds the corners of the container */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+/* Style for a specific ID called 'main-header' */
+#main-header {
+  background-color: #007bff; /* Sets a blue background */
+  color: #fff; /* Sets white text color */
+  padding: 10px 20px; /* Adds padding inside the header */
+  border-radius: 5px; /* Rounds the corners */
 }
